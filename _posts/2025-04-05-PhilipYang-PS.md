@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Chilip Yang
+author: Philip Yang
 tags: [ProblemSolving]
 ---
 
